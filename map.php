@@ -24,7 +24,7 @@ $host = 'localhost';
     if($requete->execute() == false || $requete->rowCount() == 0) {
         throw new  Exception();
     }
-
+    //lkjgkdfljgodk,
     $row = $requete->fetch();
     $adr_domicile = $row['adr_domicile'];
     $adr_travail = $row['adr_travail'];

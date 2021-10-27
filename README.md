@@ -1,15 +1,37 @@
-# Taxieur - PHP / HTML / CSS
-Le thème du projet était l'insertion professionnelle des personnes handicapées et nous avions 4 jours pour rendre une solution entière. Nous avions remporté la 2nde placfe.
+**Create A dynamic marker with mapbox and php mysql**
 
-Il faut savoir qu'en France la Secu ne rembourse que le trajet Domicile -> Centre de soins des personnes présentant un handicap. Pour ce qui est le reste de leur déplacement, elles doivent tout payer.
-C'est là que Taxieur entre en jeu : on vient proposer le tri-parcours (Domicile, travail et école) des apprentis handicapés tout en étant remboursés (une proposition de loi a été déposée en aval).
-Le principe est assez simple : il n'y a que les apprentis handicapés reconnus par la MDPH avec un numéro RQTH qui peuvent bénéficier de ce service, ainsi que le taxis agréés par la Sécu.
-Ainsi, quand un apprenti s'inscrit et envoie une demande de prise en charge, il y a un taxi qui recoit simultanément la dernière demande effectuée. Il peut la refuser ou l'accepter.
+## intro
+After Google Changing Price List and be High expensive many developers
+looked up for new solutions ,free open source or cheap maps 
+*so i thought to make a new series with the name google maps alternative
+this series for every google maps developer or any web developers (specially for php developers) 
+and this is the first tutorial on this series [watch our video](https://www.youtube.com/watch?v=NTxtvugtQm0) 
+in this tutorial you will learn how to create a mapbox map with dynamic markers and how to save it in database
+you can download the demo and watch the tutorial to understand line by line how it's works
+---
 
-Le projet a proposé 2 solutions : web et mobile. J'ai pu codé le full-stack de la version web. 
-Stack utilisée : PHP, HTML et CSS.
+## Demo Link
 
-Me contacter pour voir le code source en entier.
 
-Lien de présentation du projet :
-https://prezi.com/p/kuusptqieosn/taxieur/
+http://webeasystep.com/demo/mapbox_markers_manager/user-map.php
+
+## Installation Steps
+
+You�ll start by editing this README file to learn how to edit a file in Bitbucket.
+
+1. Download **Source Code** extract in the htdocs.
+2. Create new database with name **test**.
+3. Import **locations.sql**.
+4. Rename project folder to **mapbox_markers_manager**
+5. After making your change, Go to the browser and run this url
+ **http://localhost/mapbox_dynamic_marker/user-map.php**
+6. Enjoy the code :) .
+
+---
+Now if you have more questions, don't hesitate go to my blog and you can leave a comment.
+ You can [google maps alternative](http://webeasystep.com/),
+ 
+ 
+ ## Tutorial link
+ 
+ https://www.youtube.com/watch?v=NTxtvugtQm0

@@ -1,0 +1,112 @@
+/*GENERAL */
+* {
+  margin: 0;
+  padding: 10px;
+}
+
+
+body {
+  background-image: url("images/login.jpg");
+  font-family: "Open Sans", Monaco, monospace;
+  font-size: 10px;
+  background-color: black;
+}
+
+h2 {
+  color: #ffde4e;
+  font-size: 45px;
+  line-height: 50px;
+}
+
+h4 {
+  font-size: 20px;
+  color: #ffde4e;
+  line-height: 35px;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  font-size: 12px;
+}
+
+.wrapper {
+  width: 950px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+
+/* HEADER */
+header {
+  height: 120px;
+}
+
+header nav {
+  float: right;
+  margin-top: 50px;
+}
+
+header nav ul li {
+  display: inline-block;
+  float: left;
+}
+
+header nav ul li a {
+  text-transform: uppercase;
+  font-weight: normal;
+  margin-right: 30px;
+  line-height: 40px;
+}
+
+/* MAIN IMAGE */
+
+#main-image {
+  height: 580px;
+  background: url("images/page.JPEG") no-repeat center;
+}
+
+#main-image h2 {
+  font-weight: normal;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 150px 0 40px 0;
+  margin-bottom: 20px;
+}
+
+#main-image h4 {
+  font-weight: normal;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.button-1 {
+  display: block;
+  width: 120px;
+  height: 40px;
+  background: #ffff;
+  color: black;
+  text-align: center;
+  font-size: 12px;
+  line-height: 40px;
+  font-weight: bold;
+  border-radius: 8px;
+}
+
+.button-2 {
+  display: block;
+  text-align: center;
+  width: 120px;
+  height: 40px;
+  background: #ffff;
+  color: black;
+  line-height: 40px;
+  font-weight: bold;
+  border-radius: 8px;
+}
+
+/*.button-1:hover {
+  background: #ffffff;
+}*/
